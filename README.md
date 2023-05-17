@@ -2,8 +2,8 @@
 A (NOT) Star Wars Analytics Story. It's more about my journey towards learning data analytics while doing my final degree project.
 
 # Prerequisite(s):
-* Mysql
-* Power BI
+* Mysql Workbench
+* Power BI Desktop & Power BI Pro suscription in order to add the Dashboard to a website. 
 * Apache Server
 * Vagrant
 * VirtualBox
