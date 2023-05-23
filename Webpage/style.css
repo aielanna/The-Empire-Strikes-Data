@@ -1,0 +1,57 @@
+.logo {
+    max-width: 15%;
+    max-height: 15%;
+  }
+  
+  @media (max-width: 576px) { /* adjust margin for screens smaller than 576px */
+    .mt-5 {
+      margin-top: 2rem !important; /* reduce top margin to 2rem */
+    }
+  }
+  
+
+  button[type="submit"] {
+    background-color: #0cc0df;
+    color: black;
+  }
+  
+
+  .navbar-nav .nav-link {
+    font-size: 20px;
+  }
+  
+
+
+
+  .fab {
+    color: #0cc0df;
+  }
+
+
+  html, body {
+    height: 100%;
+  }
+  
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  main {
+    flex: 1;
+  }
+  
+  footer {
+    flex-shrink: 0;
+  }
+  
+
+  .lead {
+    font-size: 1.5rem;
+    text-align: justify;
+  }
+  
+  .container {
+    margin-left: 0px;
+  }
